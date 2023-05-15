@@ -1,4 +1,8 @@
-### Hi there 👋
+# The Goat
+- colour > color
+- will code in C if given lobotomy
+
+![image](https://github.com/Lucien950/Lucien950/assets/20777515/2f37ad3d-aad8-43ac-a11e-39d8832ebad9)
 
 <!--
 **Lucien950/Lucien950** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
