@@ -3,6 +3,8 @@
 - will code in C if given lobotomy
 
 ![image](https://github.com/Lucien950/Lucien950/assets/20777515/2f37ad3d-aad8-43ac-a11e-39d8832ebad9)
+![image](https://github.com/Lucien950/Lucien950/assets/20777515/44e04a26-a7ba-45fa-876b-2a066bc7d29c)
+
 
 <!--
 **Lucien950/Lucien950** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
