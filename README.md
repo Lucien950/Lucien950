@@ -1,5 +1,5 @@
 # The Goat
-- colour > color
+- colour > color (reformed react dev)
 <!--
 - will code in C for human affection
 -->
